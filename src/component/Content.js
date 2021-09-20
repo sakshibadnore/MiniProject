@@ -3,12 +3,13 @@ import Piechart from '../component/Piechart'
 import Piedata from '../component/Piedata'
 import Bar  from '../component/Bar'
 function Main(){
+
     return(
         <div>
         <div>
                     <div className="fullCard" >
                         <div className="cardContent">
-                            <div className="cardText">
+                            <div className="cardText" >
                             <Piechart/>
                             </div> 
                         </div>
